@@ -1,6 +1,6 @@
 [package]
 name = "numan"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 rust-version = "1.81"
 description = "Humanize numbers: compact (1.2K), word (1.2 million) and SI metric (1.2 k) notation, plus parsing them back. Zero-dependency, no_std."
